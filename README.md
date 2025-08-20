@@ -1,0 +1,1 @@
+# rating-chrome-extension
