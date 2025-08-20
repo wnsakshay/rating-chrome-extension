@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="gkiokodnffalmijnbjpfleeihojnfkcb">
-    <updatecheck codebase="https://wnsakshay.github.io/rating-chrome-extension/Rating%20Chrome%20Extension.crx" version="2.0.9" />
+    <updatecheck codebase="https://wnsakshay.github.io/rating-chrome-extension/Rating-Chrome-Extension.crx" version="2.0.9" />
   </app>
 </gupdate>
